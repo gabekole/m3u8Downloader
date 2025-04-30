@@ -31,12 +31,10 @@ npm install puppeteer-core
 Close all Chrome windows, then launch it manually:
 
 ```bash
-"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\chrome-debug"
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222"
 ```
 
 Replace `C:\Program Files\Google\Chrome\Application\chrome.exe` with your chrome executable location.
-
-> You can change the `user-data-dir` to keep session cookies (useful for login).
 
 ---
 
