@@ -89,10 +89,8 @@ video-sniffer/
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
-Built by [Your Name] — feel free to contribute or fork!
+Built by gabekole — feel free to contribute or fork!
 
 ---
-
-Would you like a companion `package.json` or a `.bat` launcher to simplify startup?
