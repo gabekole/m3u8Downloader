@@ -8,7 +8,7 @@
 
 - ✅ Attaches to an existing Chrome tab
 - 🔎 Detects HLS video streams (`.m3u8`) in real-time
-- 🧲 Injects a floating **Download Video** button into the active page
+- 💉 Injects a floating **Download Video** button into the active page
 - 📥 Downloads and stitches all `.ts` segments into a single file
 - 💾 Saves each video in a `downloads/` folder with auto-incremented names (`video_001.ts`, `video_002.ts`, ...)
 
